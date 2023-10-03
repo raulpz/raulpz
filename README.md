@@ -19,26 +19,20 @@
 <!--
    - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
+
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="RaulPinedo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RaulPinedo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Email:
+<a href="mailto:raul@pinedo.xyz"> raul@pinedo.xyz
+  <img src="https://img.icons8.com/material-rounded/24/000000/email.png" alt="Email" title="Email"/>
+</a>&nbsp;&nbsp;
 
-[Email]: raul@pinedo.xyz
-[linkedin]: https://linkedin.com/in/rpinedoz
-[instagram]: https://www.instagram.com/joshmadakor/](https://www.instagram.com/raulz182/
+LinkedIn:
+<a href="https://www.linkedin.com/in/rpinedoz">
+  <img src="https://img.icons8.com/material-rounded/24/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+</a>&nbsp;&nbsp;
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+</div>
 
 <!--
 **raulpz/raulpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
