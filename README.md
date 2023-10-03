@@ -22,6 +22,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+<b>Download my Resume Here</b>
+[Raul's Resume - September 2023](https://drive.filen.io/d/0e36d220-f75b-4645-9e5c-0f1a3b30fdbc#s3YnrGNsO5IfJd9YQ8ipF9AKanLnrTgB)
+
 Email:
 <a href="mailto:raul@pinedo.xyz"> raul@pinedo.xyz
   <img src="https://img.icons8.com/material-rounded/24/000000/email.png" alt="Email" title="Email"/>
