@@ -5,11 +5,14 @@
 - <b>Slow DDOS Attack Example(Using slowhttptest)</b>
   - [Slow DDOS Attacks (not your typical weekend DDOS Attack)](https://github.com/raulpz/raulpz.github.io/tree/main/Slow-DDOS%20Attack%20example)
 
-- <b>Detecting and Hashing a malicious payload with LimaCharlie EDR</b>
-  - [Using LimaCharlie to Detect Possible C2 Attacks](https://github.com/raulpz/raulpz.github.io/blob/main/Shadow-Copy-Deletion-Attempt-LimaCharlie/README.md) <b><i>(Potentially Risky, an isolated LAB is recommended)</b></i>
+- <b>LimaCharlie EDR - Detecting and Hashing a malicious payloads</b>
+  - [Using LimaCharlie to Hash\Find Malware](https://github.com/raulpz/raulpz.github.io/tree/main/Observing%20Telemetry%20Data%20to%20create%20Alerts) <b><i>(Potentially Risky, an isolated LAB is recommended)</b></i>
 
 - <b>LimaCharlie EDR - Using Telemetry to Detect and Alert about Dangerous payloads (C2 Command and Conquer Attacks)</b>
-  - [Telemetry usage and D&R Rules](https://github.com/raulpz/raulpz.github.io/blob/main/Observing%20Telemetry%20(Hashing%20a%20possible%20dangerous%20.EXE)/README.md) <b><i>(Potentially Risky, an isolated LAB is recommended)</b></i>
+  - [Telemetry usage and D&R Rules](https://github.com/raulpz/raulpz.github.io/blob/main/Observing%20Telemetry%20(Hashing%20a%20possible%20dangerous%20.EXE)/README.md)
+
+- <b>LimaCharlie EDR - Blocking Shadow Copy Deletion Attacks</b>
+  - [Blocking Shadow Copy Deletion Attacks using LimaCharlie Endpoint Detection and Response tool](https://github.com/raulpz/raulpz.github.io/tree/ca332303d22682a0b4cea00cd7da05883a844f46/Blocking%20Shadow%20Copy%20Deletion%20Attacks)
   
 
 - <b>PowerShell</b>
