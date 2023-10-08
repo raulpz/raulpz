@@ -8,6 +8,10 @@
 - <b>Detecting and Hashing a malicious payload with LimaCharlie EDR</b>
   - [Using LimaCharlie to Detect Possible C2 Attacks](https://github.com/raulpz/raulpz.github.io/blob/main/Shadow-Copy-Deletion-Attempt-LimaCharlie/README.md) <b><i>(Potentially Risky, an isolated LAB is recommended)</b></i>
 
+- <b>LimaCharlie EDR - Using Telemetry to Detect and Alert about Dangerous payloads (C2 Command and Conquer Attacks)</b>
+  - [Telemetry usage and D&R Rules](https://github.com/raulpz/raulpz.github.io/blob/main/Observing%20Telemetry%20(Hashing%20a%20possible%20dangerous%20.EXE)/README.md) <b><i>(Potentially Risky, an isolated LAB is recommended)</b></i>
+  
+
 - <b>PowerShell</b>
 <!--
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
