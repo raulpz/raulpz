@@ -5,8 +5,8 @@
 - <b>Slow DDOS Attack Example(Using slowhttptest)</b>
   - [Slow DDOS Attacks (not your typical weekend DDOS Attack)](https://github.com/raulpz/raulpz.github.io/tree/main/Slow-DDOS%20Attack%20example)
 
-- <b>Detect a Shadow Copy Removal attempts perpetrated by unauthorized attackers with LimaCharlie's EDR</b>
-  - [Using LimaCharlie to Detect C2 Attacks](https://github.com/raulpz/raulpz.github.io/blob/main/Shadow-Copy-Deletion-Attempt-LimaCharlie/README.md) <b><i>(Potentially Risky, an isolated LAB is recommended)</b></i>
+- <b>Detecting and Hashing a malicious payload with LimaCharlie EDR</b>
+  - [Using LimaCharlie to Detect Possible C2 Attacks](https://github.com/raulpz/raulpz.github.io/blob/main/Shadow-Copy-Deletion-Attempt-LimaCharlie/README.md) <b><i>(Potentially Risky, an isolated LAB is recommended)</b></i>
 
 - <b>PowerShell</b>
 <!--
