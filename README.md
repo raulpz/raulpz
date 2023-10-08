@@ -29,7 +29,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<b>Download my Resume Here</b>
+<b>Download my Resume Here:</b>
+<br>
 [Raul's Resume - September 2023](https://drive.filen.io/d/0e36d220-f75b-4645-9e5c-0f1a3b30fdbc#s3YnrGNsO5IfJd9YQ8ipF9AKanLnrTgB)
 
 Email:
