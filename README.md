@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raul! <br/> IT Enterprise Administrator, Security Enthusiast
+<h1>Hi, I'm Raul! <br/> IT Enterprise Administrator, Security Enthusiast</h1>
 
 <h2>👨‍💻 Some Small Projects:</h2>
 
