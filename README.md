@@ -10,7 +10,7 @@
 - <b>Slow DDOS Attack Example(Using slowhttptest)</b>
   - [Slow DDOS Attacks (not your typical weekend DDOS Attack)](https://github.com/raulpz/raulpz.github.io/tree/main/Slow-DDOS%20Attack%20example)
 
-- <b>LimaCharlie EDR - Detecting and Hashing a malicious payloads</b>
+- <b>LimaCharlie EDR - Detecting and Hashing malicious payloads</b>
   - [Using LimaCharlie to Hash\Find Malware](https://github.com/raulpz/raulpz.github.io/tree/main/Observing%20Telemetry%20Data%20to%20create%20Alerts) <b><i>(Potentially Risky, an isolated LAB is recommended)</b></i>
 
 - <b>LimaCharlie EDR - Using Telemetry to Detect and Alert about Dangerous payloads (C2 Command and Conquer Attacks)</b>
