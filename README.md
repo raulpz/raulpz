@@ -20,7 +20,7 @@
   - [Using LimaCharlie to Hash\Find Malware](https://github.com/raulpz/raulpz.github.io/tree/main/Observing%20Telemetry%20Data%20to%20create%20Alerts) <b><i>(Potentially Risky, an isolated LAB is recommended)</b></i>
 
 - <b>LimaCharlie EDR - Using Telemetry to Detect and Alert about Dangerous payloads (C2 Command and Control Attacks)</b>
-  - [Telemetry usage and D&R Rules](https://github.com/raulpz/raulpz.github.io/blob/main/Observing%20Telemetry%20(Hashing%20a%20possible%20dangerous%20.EXE)/README.md)
+  - [Telemetry usage and D&R Rules](https://github.com/raulpz/raulpz.github.io/tree/main/Detecting%20and%20Hashing%20a%20malicious%20payload%20with%20LimaCharlie%20EDR)
 
 - <b>LimaCharlie EDR - Blocking Shadow Copy Deletion Attacks</b>
   - [Blocking Shadow Copy Deletion Attacks using LimaCharlie Endpoint Detection and Response tool](https://github.com/raulpz/raulpz.github.io/tree/ca332303d22682a0b4cea00cd7da05883a844f46/Blocking%20Shadow%20Copy%20Deletion%20Attacks)
